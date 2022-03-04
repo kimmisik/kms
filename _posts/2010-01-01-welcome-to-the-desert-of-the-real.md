@@ -6,9 +6,9 @@ subtitle: '어서오세요. 반갑습니다'
 description: >-
   여러가지 재미있게 만들어 보려고 노력하고 있어요.
 image: >-
-  ![7](https://user-images.githubusercontent.com/100888733/156720173-6d1dcb82-c82b-4d30-b895-b07b4ab6d13d.jpg)
+![3](https://user-images.githubusercontent.com/100888733/156721684-4e6e4965-31f6-49e6-9d6c-29fdcbb14539.jpg)
 optimized_image: >-
-  ![7](https://user-images.githubusercontent.com/100888733/c_scale,w_380/156720173-6d1dcb82-c82b-4d30-b895-b07b4ab6d13d.jpg)
+![3](https://user-images.githubusercontent.com/100888733/c_scale,w_380/156721684-4e6e4965-31f6-49e6-9d6c-29fdcbb14539.jpg)
 tags:
   - welcome
   - blog
@@ -16,7 +16,11 @@ author: thiagorossener
 paginate: true
 
 ---
-image: >-
+
+
+![3](https://user-images.githubusercontent.com/100888733/156721684-4e6e4965-31f6-49e6-9d6c-29fdcbb14539.jpg)
+
+
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
