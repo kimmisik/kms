@@ -6,7 +6,7 @@ subtitle: '어서오세요. 반갑습니다'
 description: >-
   여러가지 재미있게 만들어 보려고 노력하고 있어요.
 image: >- ![4](https://user-images.githubusercontent.com/100888733/156756955-93191a6b-f150-4fcb-ad36-3602c3f5023b.jpg)
-optimized_image: >- ![4](https://user-images.githubusercontent.com/c_scale,w_380/100888733/156756955-93191a6b-f150-4fcb-ad36-3602c3f5023b.jpg)
+optimized_image: >- ![4](https://user-images.githubusercontent.com/100888733/c_scale,w_380/156756955-93191a6b-f150-4fcb-ad36-3602c3f5023b.jpg)
 tags:
   - welcome
   - blog
