@@ -5,8 +5,8 @@ title: KMS 홈페이지
 subtitle: '어서오세요. 반갑습니다'
 description: >-
   여러가지 재미있게 만들어 보려고 노력하고 있어요.
-image: >- ![3](https://user-images.githubusercontent.com/100888733/156721684-4e6e4965-31f6-49e6-9d6c-29fdcbb14539.jpg)
-optimized_image: >- ![3](https://user-images.githubusercontent.com/100888733/156721684-4e6e4965-31f6-49e6-9d6c-29fdcbb14539.jpg)
+image: >- ![4](https://user-images.githubusercontent.com/100888733/156756955-93191a6b-f150-4fcb-ad36-3602c3f5023b.jpg)
+optimized_image: >- ![4](https://user-images.githubusercontent.com/100888733/156756955-93191a6b-f150-4fcb-ad36-3602c3f5023b.jpg)
 tags:
   - welcome
   - blog
@@ -22,3 +22,4 @@ paginate: true
 
 
 ---
+
