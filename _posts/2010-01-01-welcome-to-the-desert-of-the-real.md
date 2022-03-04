@@ -6,10 +6,8 @@ subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  https://drive.google.com/file/d/1xwqtVYK1T2yps4OCrIiu0d_l3o_O9llE/view?usp=sharing
-optimized_image: >-
-  https://drive.google.com/file/d/1rsWkwVm0VU-MeL_2H48zlBfICKLX3MU5/view?usp=sharing
+image: https://drive.google.com/file/d/1xwqtVYK1T2yps4OCrIiu0d_l3o_O9llE/view?usp=sharing
+optimized_image: https://drive.google.com/file/d/1rsWkwVm0VU-MeL_2H48zlBfICKLX3MU5/view?usp=sharing
 category: blog
 tags:
   - welcome
