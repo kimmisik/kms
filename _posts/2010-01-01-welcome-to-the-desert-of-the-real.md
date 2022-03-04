@@ -8,7 +8,9 @@ description: >-
 image: >-
   https://drive.google.com/file/d/1xwqtVYK1T2yps4OCrIiu0d_l3o_O9llE/view?usp=sharing
 optimized_image: >-
-  https://drive.google.com/file/c_scale,w_380/d/1xwqtVYK1T2yps4OCrIiu0d_l3o_O9llE/view?usp=sharing
+  https://drive.google.com/file/d/1xwqtVYK1T2yps4OCrIiu0d_l3o_O9llE/c_scale,w_380/view?usp=sharing
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg 
+  
 tags:
   - welcome
   - blog
