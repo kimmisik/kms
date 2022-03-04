@@ -8,7 +8,7 @@ description: >-
 image: >-
   https://drive.google.com/file/d/1xwqtVYK1T2yps4OCrIiu0d_l3o_O9llE/view?usp=sharing
 optimized_image: >-
-  https://drive.google.com/file/d/c_scale,w_380/1xwqtVYK1T2yps4OCrIiu0d_l3o_O9llE/view?usp=sharing
+  https://drive.google.com/file/c_scale,w_380/d/1xwqtVYK1T2yps4OCrIiu0d_l3o_O9llE/view?usp=sharing
 tags:
   - welcome
   - blog
