@@ -8,7 +8,7 @@ description: >-
 image: >-
 ![3](https://user-images.githubusercontent.com/100888733/156721684-4e6e4965-31f6-49e6-9d6c-29fdcbb14539.jpg)
 optimized_image: >-
-![3](https://user-images.githubusercontent.com/100888733/c_scale,w_380/156721684-4e6e4965-31f6-49e6-9d6c-29fdcbb14539.jpg)
+![3](https://user-images.githubusercontent.com/c_scale,w_380/100888733/156721684-4e6e4965-31f6-49e6-9d6c-29fdcbb14539.jpg)
 tags:
   - welcome
   - blog
