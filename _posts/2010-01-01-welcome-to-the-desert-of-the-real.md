@@ -1,5 +1,5 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+
 layout: post
 title: KMS 홈페이지
 subtitle: '어서오세요. 반갑습니다'
