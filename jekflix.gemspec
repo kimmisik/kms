@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekflix"
   spec.version       = "3.1.1"
-  spec.authors       = ["Thiago Rossener"]
-  spec.email         = ["thiago@rossener.com"]
+  spec.authors       = ["KMS"]
+  spec.email         = ["KMS@KMS.com"]
 
   spec.summary       = "A Jekyll theme inspired by Netflix."
   spec.homepage      = "https://jekflix.rossener.com/"
@@ -20,3 +20,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.16"
   spec.add_development_dependency "rake", "~> 12.0"
 end
+
+---
+  spec.authors       = ["Thiago Rossener"]
+  spec.email         = ["thiago@rossener.com"]
+---
