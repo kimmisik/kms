@@ -7,8 +7,8 @@ paginate: true
 
 ---
 
-homedisplay: iframe
-audio-embed: <iframe width="100%" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1116388588&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+[BTS, Butter](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1116388588&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true%22%3E%3C/iframe%3E)
 
 ---
 
@@ -16,8 +16,3 @@ audio-embed: <iframe width="100%" height="450" src="https://w.soundcloud.com/pla
 AUDIO Cloud, 구글 아이디로 로그인하며, 무료입니다.
 
 ---
-
-homedisplay: iframe
-audio-embed: <iframe width="100%" height="450" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1116388588&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-title: BTS, Butter
-
