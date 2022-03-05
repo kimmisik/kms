@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BTS, Butter
-optimized_image: https://user-images.githubusercontent.com/100888733/156720178-3261153d-1823-41e9-81b5-70dc5e53afbd.jpg
+optimized_image: https://user-images.githubusercontent.com/100888733/156873464-fd2860a7-1345-4503-9bd9-1432e39f6977.jpg
 paginate: true
 
 ---
